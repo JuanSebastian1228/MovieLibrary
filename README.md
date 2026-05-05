@@ -1,4 +1,4 @@
-# 🎬 MovieLibrary – Taller Práctico 4
+# MovieLibrary – Taller Práctico 4
 - Juan Sebastian Ropero Amado
 - E-191
 - 05-05-2026
@@ -10,7 +10,7 @@ Component, Safe Args, LiveData y Room.
 
 ---
 
-## 📱 Funcionalidades
+## Funcionalidades
 
 - Ver lista completa de películas guardadas localmente.
 - Agregar nuevas películas mediante formulario.
@@ -21,7 +21,7 @@ Component, Safe Args, LiveData y Room.
 
 ---
 
-## 🏗️ Arquitectura
+## Arquitectura
 
 El proyecto sigue el patrón **MVVM** (Model–View–ViewModel) con las
 siguientes capas:
@@ -34,7 +34,7 @@ ui/          → Fragments (Lista, Detalle, Edición)
 
 ---
 
-## 💡 Documento de Reflexión
+## Reflexión
 
 ### ¿Qué es el ViewModel y por qué es útil?
 
@@ -126,7 +126,7 @@ notificar automáticamente los cambios a la interfaz.
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 | Tecnología | Versión |
 |---|---|
